@@ -1,0 +1,538 @@
+/*===============Navigation===========*/
+@media (max-width: 1360px) {
+    .heahing1 {
+        width: 100%;
+    }
+}
+@media (max-width: 1350px) {
+    .box_1 img {
+        margin-left: -71px;
+    }
+}
+@media (max-width: 1280px) {
+    .news_box,
+    .news {
+        height: 320px;
+    }
+    .agriculture-content img {
+        max-width: 100%;
+    }
+
+}
+@media (max-width: 1215px) {
+    .news_box,
+    .news {
+        height: 320px;
+    }
+
+ .agriculture-content img {
+        max-width:100%;
+    }
+
+}
+@media (max-width: 1135px) {
+    .news_box,
+    .news {
+        height: 320px;
+    }
+
+    .agriculture-content img {
+        max-width: 100%;
+    }
+
+}
+
+@media (max-width: 1250px) {
+    .agriculture_heading {
+        font-size: 20px;
+    }
+    .news span h4 {
+        font-size: 15px;
+    }
+
+    .agriculture-content img {
+        max-width: 100%;
+    }
+
+}
+@media (max-width: 1100px) {
+    .agriculture-content img {
+        max-width: 100%;
+    }
+
+     
+}
+@media (max-width: 1024px) {
+    .agriculture-content img {
+        max-width: 100%;
+    }
+
+
+    .heahing1 {
+        width: 100%;
+    }
+    .news_box,
+    .news {
+        height: 565px;
+    }
+    .department_heading {
+        font-size: 16px !important;
+        font-weight: normal !important;
+    }
+
+    .news span h4 {
+        font-size: 13px;
+    }
+    .header-icon img {
+        height: 60%;
+    }
+    .navbar_2.sticky{
+        position: relative;
+    }
+    .content .links ul::after{
+        display: none;
+    }
+    .content .links ul{
+        width: 100%;
+    }
+    .plus{
+        display: none;
+    }
+    .desktop-link_o{
+        display: block !important;
+    }
+    .label_{
+        position: absolute;
+       right: 0;
+      top: 0;
+      border: 1px solid #ccc;
+    }
+    a.desktop-link_{
+       padding: 0px 10px !important;
+
+    }
+    .content .links ul li:hover ul{
+       padding: 0px 60px;
+    }
+    .swiper-slide img{
+        height: 100%;
+    }
+
+}
+@media (max-width: 991px) {
+    .navbar-nav_ {
+        padding-left: 0.4rem !important;
+        width: 100%;
+        justify-content: flex-end;
+    }
+    .section_content {
+        border-bottom: 1px solid #b1b1b1;
+        border-right: none;
+    }
+    .section_content:nth-child(3) {
+        border-bottom: 1px solid transparent !important;
+    }
+    .heahing-box h4 {
+        font-size: 14px;
+    }
+    .img_box_t {
+        width: 100%;
+        height: 100%;
+    }
+    .box_1 {
+        height: 350px;
+    }
+    .box_1 img {
+        margin-left: -164px;
+    }
+    .azadi-ka-mahotsav {
+        width: 170px;
+    }
+    .news_box,
+    .news {
+        height: 100%;
+    }
+    .content .links ul ul:after {
+        display: none;
+    }
+    .content .links ul:after {
+        display: none;
+    }
+    .nav .content .links {
+        max-width: 80%;
+    }
+    .content .links ul {
+        width: 100%;
+    }
+    
+    .related{
+        display: none;
+    }
+     .related_{
+        display: block;
+    }
+    .related_ .intra{
+        position: relative;
+        display: none;
+        left: 0;
+            background: var(--background-color);
+    }
+    .related_ .parliament{
+         position: relative;
+        display: none;
+        left: 0;
+            background: var(--background-color);
+    }
+
+
+       #related_link_label0:checked ~ ul{
+    display: block;
+    
+    
+}
+ #related_link_label1:checked ~ ul{
+    display: block;
+    
+    
+}
+    .related_link_label_{
+    display: block !important;
+}
+    .hide{
+        display: none !important;
+    }
+    #related_link:checked ~ ul{
+    display: block !important;
+    top: 0px !important;
+    position: relative;
+    width: 100%;
+}
+.related_link_mobile_view{
+    display: block;
+}
+.dashboard_link_mobile_view{
+    display: block;
+}
+.social-icon_mobile {
+    display: block;
+    line-height: 3;
+    width: 81%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    right: 0;
+    position: absolute;
+}
+.nav-item_mobile_view {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+}
+.navbar_2_mobile_view{
+    display: block;
+}
+.navbar_1 {
+        position: fixed;
+        top: 0px;
+        z-index: 999;
+        width: 100%;
+    
+}
+.navbar_3{
+    display: none;
+}
+.social-icon_mobile-view{
+    display: flex;
+   list-style: none;
+   margin-top: 5px;
+}
+.lang_mobile_view{
+     display: flex;
+      list-style: none;
+      padding: 0px 10px;
+}
+.nav-link_1{
+    margin-right: 0px;
+    height: 35px;
+     margin-top: 0px;
+}
+.all-img-box{
+        width: 100%;
+        height: 100%;
+    }
+}
+@media (max-width: 768px) {
+    .section_content_two {
+        width: 33.333%;
+
+        flex-direction: column;
+    }
+    .section_content_two_ {
+        width: 33.333%;
+
+        flex-direction: column;
+    }
+    .minster {
+        flex-wrap: wrap;
+    }
+    .footer_content {
+        height: 100%;
+    }
+    .img_box_t {
+        transform: skewX(0deg);
+    }
+    .box_1 img {
+        transform: skewX(-0deg);
+    }
+    .box_1 img {
+        margin-left: 0;
+        width: 100%;
+        height: 100%;
+    }
+    .section_content {
+        height: 100%;
+    }
+    .padding_80px {
+        padding: 30px 30px;
+    }
+    .farmer {
+        flex-direction: row;
+    }
+    .nav .content .links {
+        max-width: 100%;
+    }
+    .mySwiper1_three{
+        height: 100%;
+    }
+}
+@media (max-width: 767px) {
+    .agriculture_content_box {
+        flex-direction: column;
+        height: 100%;
+    }
+    .agriculture_content_box_bo_ {
+        border-right: none !important;
+        border-left: 3px solid transparent;
+        border-bottom: none !important;
+        flex-direction: column;
+        height: 100%;
+    }
+    .conent_b {
+        padding: 30px 10px;
+        /* margin: 0 auto; */
+        text-align: center;
+    }
+    .department_content {
+        font-size: 12px;
+    }
+    .img_box_t_0 {
+        margin-top: 0px;
+    }
+    .header-icon img{
+        height: 50%;
+    }
+    .header-icon{
+        padding: 0;
+    }
+}
+@media (max-width: 500px) {
+    .mobile-hide {
+        display: none;
+    }
+    .section_content {
+        height: 100%;
+    }
+    .article-image img {
+        width: auto;
+        max-width:100%;
+    }
+    .header-icon img {
+        height: 50%;
+    }
+    .header-icon {
+        padding: 0px 0px;
+        margin-right: 0px;
+    }
+    
+
+.navbar-nav_ {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    width: 85%;
+}
+.nav-link_1{
+    margin-right: 0px;
+    
+
+}
+ul{
+    margin-bottom: 0 !important;
+}
+.logo-content div ul{
+    padding-top: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+.logo-content div{
+    padding: 0px 10px;
+}
+.heading{
+    font-size: 18px;
+}
+.all-img-box {
+    width: 100%;
+    height: 100%;
+}
+.agriculture-section{
+
+    border-bottom: 2px solid var(--background-color1);
+
+}
+.section_content_two img{
+    width: 50px;
+}
+.section_content_two{
+    padding: 10px 10px 0px 10px;
+}
+.section_content_two_ img {
+    width: 50px;
+}
+.section_content_two p{
+   font-size: 10px;
+    letter-spacing: 0.3px;
+    text-align: center;
+    padding-top: 5px;
+    line-height: 14px;
+}
+.conent_b h1{
+    font-size: 16px;
+}
+.conent_b h4{
+    font-size: 12px;
+    line-height: 14px;
+}
+.p-5{
+    padding: 1rem!important;
+}
+.agriculture-article {
+    padding: 30px 10px 0;
+}
+}
+@media (max-width: 1400px) {
+    .margin_left_90px {
+        margin-left: 85px;
+    }
+    .margin_left_35px {
+        margin-left: 45px;
+    }
+    .margin_left_9px {
+        margin-left: -3px;
+    }
+    .article-image {
+        padding-bottom: 20px;
+        padding-top: 30px;
+    }
+}
+
+@media (max-width: 1080px) {
+    .nav-link {
+        display: block;
+        padding: 0.1rem 5px !important;
+        color: #0d6efd;
+        text-transform: uppercase;
+        font-size: 9px;
+    }
+    .margin_left_90px {
+        margin-left: 69px;
+    }
+    .margin_left_35px {
+        margin-left: 63px;
+    }
+    .margin_left_9px {
+        margin-left: 16px;
+    }
+}
+
+@media (max-width: 1080px) {
+    .intra {
+        left: -186px;
+    }
+    .parliament {
+        left: -186px;
+    }
+}
+
+@media (max-width: 1200px) {
+    .banner_slider {
+        height: 100%;
+    }
+
+}
+@media (max-width: 500px) {
+    .banner_slider {
+        height: 100%;
+    }
+    .agriculture-logo {
+        width: 35px;
+    }
+    .krishi_heading {
+        font-size: 12px;
+    }
+    .department_heading {
+        font-size: 12px !important;
+    }
+    .agriculture_heading {
+        font-size: 15px;
+    }
+    .department_heading{
+        text-align: center;
+    }
+    .px-5{
+        padding-right: 1rem!important;
+    padding-left: 1rem!important;
+    }
+    .agriculture_content_box{
+        padding: 10px 0px;
+    }
+    .conent_b{
+        padding: 30px 0px;
+    }
+    .padding_80px{
+        padding: 0px 10px;
+    }
+    .swiper-slide { height:auto !important;}
+
+    .footer_content {
+        padding: 0;
+        height: auto;
+    }
+    .svg-wrapper{
+        margin-top: -15px;
+    }
+    .lightbox-image{
+            max-height: 32vh !important;
+    }
+    .box_small p{
+        font-size: 12px;
+    }
+    .social-icon_mobile{
+        width: 90%;
+    }
+    .nav-item_mobile_view{
+        width: 100%;
+    }
+    .social-icon_mobile-view,.lang_mobile_view{
+        width: 50%;
+    }
+    .footer_link li{
+        padding-top: 0;
+    }
+    .footer_link li a{
+        font-size: 12px;
+    }
+}

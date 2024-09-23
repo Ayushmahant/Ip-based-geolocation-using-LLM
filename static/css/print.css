@@ -1,0 +1,68 @@
+@media print {
+
+    body {
+        -webkit-print-color-adjust: exact !important;
+        print-color-adjust: exact !important;
+    }
+
+
+
+    @page {
+        margin: 2cm;
+    }
+
+    .navbar-expand-md .navbar-toggler {
+   
+    }
+
+    #navBar {
+        height: 50px;
+    }
+
+    .navbar-expand-md .main-navbar-nav .custom-nav-link {
+        color: #0c0101 !important;
+    }
+
+
+    .agriculture-content {
+        overflow-y: hidden;
+        overflow-x: hidden;
+        height: auto;
+        padding: 0px 10px;
+    }
+
+    
+  
+
+    .agriculture_banner_one .social-icon {
+        display: none;
+    }
+
+
+    .swiper-pointer-events.swiper-vertical {
+      
+        overflow-y: visible;
+        height:500px;
+    }
+
+
+    header {
+        display: none !important;
+    }
+
+    .printheadr {
+       
+        display: block !important;
+    }
+
+    .header-icon {
+        padding: 0px 5px !important;
+    }
+
+        .header-icon img {
+            height: 30% !important;
+            margin-top:10px;
+        }
+
+}
+
